@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-apsd_47o)s8=*2b05w5@t2#j!!6c$w-#((b95ml&y$&&rjfau)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["ninlawan-django.herokuapp.com","127.0.0.1"]
 
 
 # Application definition
