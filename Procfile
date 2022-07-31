@@ -1,1 +1,1 @@
-web: gunicorn my_django.wgsi
+web: gunicorn my_django.wsgi
